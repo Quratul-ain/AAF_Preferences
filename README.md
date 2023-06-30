@@ -2,4 +2,4 @@
 
 ArgumentationOriginalAndApproximatePreferences.java - Source code for computing and verifying preferences using both the original and approximate approaches.
 
-ArgumentationApproxPreferencesScale.java - Source code for computing and verifying preferences using the approximate approach on largers AAF (Abstract Argumentation Framework) sizes.
+ArgumentationApproxPreferencesScale.java - Source code for computing and verifying preferences using the approximate approach on larger AAF (Abstract Argumentation Framework) sizes.
